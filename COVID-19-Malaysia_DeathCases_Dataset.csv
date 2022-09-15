@@ -1,0 +1,164 @@
+﻿hospital,case,age,age_group,gender,chronic_disease,District,state,latitude,longitude
+Borneo Medical Centre,1031,79,>60,F,0,Kuching,Sarawak,1.5292,110.3555
+duchesss-of-kent,16315,84,>60,F,1,Sandakan,Sabah,5.589,118.103
+duchesss-of-kent,16316,83,>60,M,1,Sandakan,Sabah,5.589,118.103
+duchesss-of-kent,17308,73,>60,F,1,Sandakan,Sabah,5.589,118.103
+duchesss-of-kent,14259,67,>60,M,1,Sandakan,Sabah,5.589,118.103
+duchesss-of-kent,11154,60,41-60,M,1,Sandakan,Sabah,5.589,118.103
+duchesss-of-kent,13705,57,41-60,M,1,Sandakan,Sabah,5.589,118.103
+duchesss-of-kent,17309,47,41-60,F,1,Sandakan,Sabah,5.589,118.103
+"Hospital Angkatan Tentera Tuanku Mizan, then HKL",1334,75,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Canselor Tuanku Muhriz UKM,1070,70,>60,M,1,Bandar Tun Razak,Wp Kuala Lumpur,3.0993,101.7232
+Hospital Enche Besar Hajjah Khalsom,1649,81,>60,M,1,Kluang,Johor,2.0081,103.3471
+Hospital Enche Besar Hajjah Khalsom,2572,85,>60,M,1,Kluang,Johor,2.0081,103.3471
+Hospital Enche Besar Hajjah Khalsom,2627,69,>60,M,1,Kluang,Johor,2.0081,103.3471
+Hospital Enche Besar Hajjah Khalsom,3794,71,>60,M,0,Kluang,Johor,2.0081,103.3471
+Hospital Enche Besar Hajjah Khalsom,3871,32,21-40,F,1,Kluang,Johor,2.0081,103.3471
+Hospital Enche Besar Hajjah Khalsom,4087,78,>60,M,1,Kluang,Johor,2.0081,103.3471
+Hospital Enche Besar Hajjah Khalsom,4769,51,41-60,M,1,Kluang,Johor,2.0081,103.3471
+Hospital Enche Besar Hajjah Khalsom,5195,90,>60,M,1,Kluang,Johor,2.0081,103.3471
+Hospital Enche Besar Hajjah Khalsom,7733,61,>60,M,1,Kluang,Johor,2.0081,103.3471
+Hospital Keningau,2200,66,>60,M,1,Keningau,Sabah,5.3701,116.182
+Hospital Kluang,1114,70,>60,M,0,Kluang,Johor,2.0212,103.3213
+Hospital Kluang,1239,50,41-60,M,1,Kluang,Johor,2.0212,103.3213
+Hospital Kluang,1797,48,41-60,M,1,Kluang,Johor,2.0212,103.3213
+Hospital Kluang,8770,72,>60,M,1,Kluang,Johor,2.0212,103.3213
+Hospital Kuala Lumpur,193,80,>60,F,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,290,57,41-60,M,0,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,787,77,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,1053,62,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,1056,35,21-40,M,0,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,1906,65,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,2626,69,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,2657,60,41-60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,2806,62,>60,F,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,3484,68,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,4229,77,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,4711,66,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,4818,63,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,5332,92,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,5441,66,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Kuala Lumpur,6657,63,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1715,101.6996
+Hospital Melaka,238,50,41-60,M,0,Bandaraya Melaka,Melaka,2.2126,102.2517
+Hospital Melaka,2499,74,>60,F,1,Bandaraya Melaka,Melaka,2.2126,102.2517
+Hospital Melaka,2797,62,>60,M,1,Bandaraya Melaka,Melaka,2.2126,102.2517
+Hospital Melaka,2798,59,41-60,M,1,Bandaraya Melaka,Melaka,2.2126,102.2517
+Hospital Melaka,4521,74,>60,F,1,Bandaraya Melaka,Melaka,2.2126,102.2517
+Hospital Miri,595,51,41-60,F,0,Miri,Sarawak,4.3929,113.983
+Hospital Miri,2471,46,41-60,F,1,Miri,Sarawak,4.3929,113.983
+Hospital Pakar Sultanah Fatimah,1251,66,>60,M,1,Muar,Johor,2.0571,102.5723
+Hospital Pakar Sultanah Fatimah,1519,70,>60,M,1,Muar,Johor,2.0571,102.5723
+Hospital Pakar Sultanah Fatimah,2910,78,>60,M,1,Muar,Johor,2.0571,102.5723
+Hospital Permai,178,34,21-40,M,0,Johor Bahru,Johor,1.5231,103.7034
+Hospital Permai,1249,37,21-40,M,0,Johor Bahru,Johor,1.5231,103.7034
+Hospital Pulau Pinang,259,74,>60,M,0,Georgetown,Pulau Pinang,5.4167,100.3089
+Hospital Pulau Pinang,13067,85,>60,M,0,Georgetown,Pulau Pinang,5.4167,100.3089
+Hospital Pulau Pinang,9174,80,>60,F,0,Georgetown,Pulau Pinang,5.4167,100.3089
+Hospital Queen Elizabeth,694,62,>60,M,1,Kota Kinabalu,Sabah,5.9568,116.0726
+Hospital Queen Elizabeth,8403,96,>60,F,0,Kota Kinabalu,Sabah,5.9568,116.0726
+Hospital Queen Elizabeth,14151,66,>60,F,1,Kota Kinabalu,Sabah,5.9568,116.0726
+Hospital Queen Elizabeth,14642,64,>60,M,1,Kota Kinabalu,Sabah,5.9568,116.0726
+Hospital Queen Elizabeth,8974,64,>60,M,1,Kota Kinabalu,Sabah,5.9568,116.0726
+Hospital Queen Elizabeth,17307,63,>60,F,1,Kota Kinabalu,Sabah,5.9568,116.0726
+Hospital Queen Elizabeth,14974,54,41-60,F,1,Kota Kinabalu,Sabah,5.9568,116.0726
+Hospital Raja Perempuan Zainab II,781,69,>60,M,0,Kota Bharu,Kelantan,6.1252,102.2435
+Hospital Raja Permaisuri Bainun,1840,62,>60,M,1,Ipoh,Perak,4.6037,101.0903
+Hospital Raja Permaisuri Bainun,2032,83,>60,M,1,Ipoh,Perak,4.6037,101.0903
+Hospital Raja Permaisuri Bainun,2034,73,>60,F,1,Ipoh,Perak,4.6037,101.0903
+Hospital Raja Permaisuri Bainun,2323,27,21-40,M,1,Ipoh,Perak,4.6037,101.0903
+Hospital Raja Permaisuri Bainun,2399,63,>60,M,1,Ipoh,Perak,4.6037,101.0903
+Hospital Selayang,5252,36,21-40,M,0,Selayang,Selangor,3.2432,101.6468
+Hospital Sultan Ismail,1625,56,41-60,M,1,Johor Bahru,Johor,1.5467,103.7887
+Hospital Sultan Ismail Petra,780,76,>60,M,0,Kuala Krai,Kelantan,5.5357,102.1961
+Hospital Sultan Ismail Petra,860,66,>60,F,1,Kuala Krai,Kelantan,5.5357,102.1961
+Hospital Sultanah Aminah,2162,61,>60,M,1,Johor Bahru,Johor,1.4585,103.7459
+Hospital Sultanah Aminah,2909,37,21-40,M,1,Johor Bahru,Johor,1.4585,103.7459
+Hospital Sultanah Bahiyah,1588,63,>60,M,1,Alor Setar,Kedah,6.1418,100.3688
+Hospital Sultanah Bahiyah,9578,82,>60,M,0,Alor Setar,Kedah,6.1418,100.3688
+Hospital Sultanah Bahiyah,9290,75,>60,M,1,Alor Setar,Kedah,6.1418,100.3688
+Hospital Sultanah Bahiyah,9224,72,>60,M,0,Alor Setar,Kedah,6.1418,100.3688
+Hospital Sultanah Bahiyah,9124,62,>60,M,0,Alor Setar,Kedah,6.1418,100.3688
+Hospital Sultanah Bahiyah,11207,46,41-60,M,0,Alor Setar,Kedah,6.1418,100.3688
+Hospital Sultanah Nora Ismail,1246,68,>60,F,0,Batu Pahat,Johor,1.837,102.9386
+Hospital Sultanah Nur Zahirah,3663,67,>60,M,1,Kuala Terengganu,Terengganu,5.3239,103.1507
+Hospital Sungai Buloh,537,71,>60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,824,61,>60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,830,47,41-60,M,0,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,1321,53,41-60,M,0,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,1952,57,41-60,F,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,2050,72,>60,F,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,2052,65,>60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,2296,79,>60,F,0,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,2354,62,>60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,2380,51,41-60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,2978,61,>60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,3616,65,>60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,3628,67,>60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Sungai Buloh,5539,82,>60,M,1,Sungai Buloh,Selangor,3.2196,101.5831
+Hospital Taiping,3469,90,>60,M,1,Taiping,Perak,4.8511,100.7369
+Hospital Tawau,152,58,41-60,M,0,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,15947,85,>60,F,1,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,14261,82,>60,M,0,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,10491,81,>60,F,0,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,15584,63,>60,M,1,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,14038,61,>60,M,1,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,16663,59,41-60,M,1,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,14640,58,41-60,F,0,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,10939,57,41-60,M,1,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,12991,54,41-60,M,1,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,10493,54,41-60,M,0,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,14264,53,41-60,M,1,Tawau,Sabah,4.2497,117.8785
+Hospital Tawau,10495,48,41-60,F,1,Tawau,Sabah,4.2497,117.8785
+Hospital Tengku Ampuan Afzan,1575,61,>60,M,1,Kuantan,Pahang,3.8004,103.3216
+Hospital Tengku Ampuan Afzan,4129,67,>60,M,1,Kuantan,Pahang,3.8004,103.3216
+Hospital Tengku Ampuan Afzan,4657,64,>60,M,1,Kuantan,Pahang,3.8004,103.3216
+Hospital Tengku Ampuan Afzan,5064,85,>60,M,0,Kuantan,Pahang,3.8004,103.3216
+Hospital Tengku Ampuan Afzan,6780,39,21-40,M,1,Kuantan,Pahang,3.8004,103.3216
+Hospital Tengku Ampuan Rahimah,2629,73,>60,M,1,Klang,Selangor,3.0199,101.4405
+Hospital Tuanku Fauziah,890,48,41-60,M,0,Kangar,Perlis,6.4411,100.1892
+Hospital Tuanku Jaafar,1767,69,>60,M,0,Seremban,Negeri Sembilan,2.7091,101.9436
+Hospital Tuanku Jaafar,2122,52,41-60,M,0,Seremban,Negeri Sembilan,2.7091,101.9436
+Hospital Tuanku Jaafar,2123,64,>60,F,1,Seremban,Negeri Sembilan,2.7091,101.9436
+Hospital Tuanku Jaafar,2269,48,41-60,F,1,Seremban,Negeri Sembilan,2.7091,101.9436
+Hospital Tuanku Jaafar,2903,58,41-60,F,1,Seremban,Negeri Sembilan,2.7091,101.9436
+Hospital Tuanku Jaafar,3091,66,>60,M,1,Seremban,Negeri Sembilan,2.7091,101.9436
+Hospital Tuanku Jaafar,4531,54,41-60,M,1,Seremban,Negeri Sembilan,2.7091,101.9436
+Hospital Tuanku Jaafar,5837,64,>60,M,1,Seremban,Negeri Sembilan,2.7091,101.9436
+Hospital Umum Sarawak,358,60,41-60,M,0,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,1006,49,41-60,M,0,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,1032,40,21-40,F,0,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,1273,61,>60,M,0,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,1275,40,21-40,M,0,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,1941,47,41-60,M,0,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,2210,72,>60,M,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,2850,56,41-60,M,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,2864,23,21-40,F,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,3073,53,41-60,M,0,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,4090,69,>60,M,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,4314,47,41-60,F,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,5282,72,>60,M,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,5483,72,>60,F,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,8702,72,>60,M,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Umum Sarawak,8743,63,>60,F,1,Kuching,Sarawak,1.5436,110.3374
+Hospital Wanita dan Kanak Kanak Likas,6856,53,41-60,F,1,Likas,Sabah,6.0138,116.1195
+Institut Jantung Negara,2149,85,>60,F,1,Titiwangsa,Wp Kuala Lumpur,3.1701,101.709
+Institut Jantung Negara,2561,84,>60,F,1,Titiwangsa,Wp Kuala Lumpur,3.1701,101.709
+lahad-datu,11152,80,>60,M,1,Tawau,Sabah,5.0267,118.3137
+lahad-datu,12489,55,41-60,M,1,Tawau,Sabah,5.0267,118.3137
+medical-centre,6942,77,>60,F,1,Kuantan,Pahang,3.8081,103.3244
+Pusat Perubatan Universiti Malaya,2321,91,>60,F,1,Kuala Lumpur,Wp Kuala Lumpur,3.1137,101.6529
+Pusat Perubatan Universiti Malaya,2322,76,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1137,101.6529
+Pusat Perubatan Universiti Malaya,2628,81,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1137,101.6529
+Pusat Perubatan Universiti Malaya,4230,88,>60,F,1,Kuala Lumpur,Wp Kuala Lumpur,3.1137,101.6529
+Pusat Perubatan Universiti Malaya,4988,69,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1137,101.6529
+Pusat Perubatan Universiti Malaya,5183,85,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1137,101.6529
+Pusat Perubatan Universiti Malaya,7468,67,>60,M,1,Kuala Lumpur,Wp Kuala Lumpur,3.1137,101.6529
+semporna,13692,75,>60,F,1,Semporna,Sabah,4.4828,118.6045
+semporna,14028,68,>60,M,0,Semporna,Sabah,4.4828,118.6045
+semporna,12431,60,41-60,M,0,Semporna,Sabah,4.4828,118.6045
+semporna,14641,57,41-60,F,1,Semporna,Sabah,4.4828,118.6045
+semporna,14999,51,41-60,M,1,Semporna,Sabah,4.4828,118.6045
+semporna,10145,50,41-60,F,0,Semporna,Sabah,4.4828,118.6045
+semporna,16662,36,21-40,F,0,Semporna,Sabah,4.4828,118.6045
+semporna,12432,1,20-Jan,F,0,Semporna,Sabah,4.4828,118.6045
+tuaran,15948,48,41-60,F,1,Kota Kinabalu,Sabah,6.1439,116.219
